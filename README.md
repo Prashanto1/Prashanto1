@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prashant Murale</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanto1&label=Profile%20views&color=0e75b6&style=flat" alt="prashanto1" /> </p>
 
-- 🔭 I’m currently working on **freelance: Store project**
-
-- 🌱 I’m currently learning **BackEnd**
+- 🔭 I’m currently working on **ETL Project**
 
 - 👨‍💻 All of my projects are available at [https://prashant-murale.web.app/](https://prashant-murale.web.app/)
 
-- 💬 Ask me about **React, Node, Eexpress, Java**
+- 💬 Ask me about **Python, SQL, Spark, AWS, Programming**
 
 - 📫 How to reach me **https://www.linkedin.com/in/prashant-murale/**
 
