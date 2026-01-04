@@ -1,95 +1,15 @@
-<h1 align="center">Hi 👋, I'm Prashant Murale</h1>
-<h3 align="center">🚀 A Passionate Data Engineer from India</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prashanto1&label=Profile%20views&color=0e75b6&style=flat" alt="prashanto1" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prashant_murale31/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashant-murale/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashantmurale@gmail.com) 
 
----
-
-### 🧠 About Me  
-I'm a results-driven **Data Engineer** with hands-on experience in building **scalable ETL pipelines**, **cloud data solutions**, and **automated analytics workflows**.  
-I love turning raw data into actionable insights through modern data engineering tools and architectures.
-
-- 🔭 I’m currently working on **end-to-end data pipelines at Nubax Data Labs**
-- 🌩️ Skilled in **AWS**, **Azure**, and **real-time analytics**
-- ⚙️ Experienced in **data modeling**, **ETL orchestration**, and **cloud data migration**
-- 💬 Ask me about **Python, SQL, Spark, Airflow, AWS, Azure, Data Warehousing**
-- 🌐 Portfolio: [https://prashant-murale.web.app/](https://prashant-murale.web.app/)
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/prashant-murale/)**  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Prashanto1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Prashanto1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanto1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Prashanto1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💼 Experience Snapshot
-
-**Data Engineer – Nubax Data Labs** *(Oct 2024 – Present)*  
-- Designed & implemented **end-to-end ETL pipelines** on **Azure**.  
-- Migrated **on-prem databases to AWS**, reducing cost by 20%.  
-- Optimized **MS SQL Server** queries, improving performance by 20%.  
-- Built **Power BI dashboards** to automate reporting and enhance visibility.  
-
-**Data Engineer Intern – Nubax Data Labs** *(Jun 2024 – Sep 2024)*  
-- Supported **pipeline development using Python & SQL**.  
-- Optimized **MySQL** and **PostgreSQL** databases for better performance.  
-- Automated **Power BI** reports & data refresh cycles.  
-
----
-
-### ⚡ Projects
-
-**🚗 Vehicle Tracking System (VTS)**  
-- Built **ETL pipelines** for data extraction, transformation & loading.  
-- Configured **Apache Airflow** for workflow orchestration.  
-- Created **real-time alerting** and **Grafana dashboards** for monitoring system performance.
-
-**🛰️ Orion Data Platform**  
-- Designed **data ingestion & transformation workflows** for real-time analytics.  
-- Optimized data processing with **PySpark**, **Airflow**, and **AWS services**.  
-- Automated **data validation** and **pipeline monitoring**.
-
----
-
-### 🧰 Tech Stack
-
-**Programming & Scripting**  
-`Python` • `SQL` • `PySpark`
-
-**Big Data & Processing**  
-`Apache Spark` • `Spark SQL` • `Hadoop` • `YARN`
-
-**Orchestration & Workflow Automation**  
-`Apache Airflow` • `Cron` • `ETL Scheduling`
-
-**Databases & Storage**  
-`MySQL` • `PostgreSQL` • `MS SQL Server` • `MongoDB`
-
-**Cloud Platforms**  
-`AWS (S3, EC2, RDS, Lambda)` • `Azure Data Factory` • `Azure Synapse`
-
-**Visualization & Analytics**  
-`Power BI` • `Grafana` • `Matplotlib`
-
-**DevOps & Version Control**  
-`Docker` • `Git` • `GitHub` • `CI/CD`
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://twitter.com/prashantmurale" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prashant-murale/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/prashant_murale31/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@prashantmurale" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/prashantmurale/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanto1&show_icons=true&locale=en&layout=compact" alt="prashanto1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashanto1&show_icons=true&locale=en" alt="prashanto1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashanto1&" alt="prashanto1" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
